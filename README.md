@@ -1,5 +1,5 @@
 Spring Boot Mail Sender
-A simple Spring Boot web application that allows users to send emails using JavaMailSender. Users can enter an email address, subject, and message body through a web form — and the application will send the message directly to the specified email.
+A simple Spring Boot web application that allows users to send emails using JavaMailSender. Users can enter an email address and message body through a web form — and the application will send the message directly to the specified email.
 
 Features
 1) Send plain text emails
